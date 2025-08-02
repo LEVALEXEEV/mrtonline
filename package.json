@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://LEVALEXEEV.github.io/mrtonline/",
+  "homepage": "https://mrtonline.ru",
   "scripts": {
     "start": "vite",
     "build": "tsc -b && vite build",
